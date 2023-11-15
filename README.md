@@ -6,6 +6,7 @@ La dispensa è suddivisa in diverse sezioni, ognuna delle quali copre un argomen
 1. **Concetti di base**
    - Introduzione all'ambiente di sviluppo e a Java
 
+Indice in aggiornamento
 
 ## Come Utilizzare Questo Materiale
 
